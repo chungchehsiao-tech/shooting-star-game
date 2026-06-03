@@ -10,10 +10,10 @@ I developed this game for a class in 2017 to practice core programming concepts 
 
 ## 🖼️ Game Scenes
 
-Lasers only trigger a hit box once the beam thickens.
+Lasers only trigger a hit box once the beam thickens.  
 ![Lazer view](lazer-spell.gif)  
 
-Obstacle collisions reduce player lives. Activating the shield ('X' key) prevents damage but consumes 5,000 score points.
+Obstacle collisions reduce player lives. Activating the shield ('X' key) prevents damage but consumes 5,000 score points.  
 ![hit view](hit-protect.gif)  
 
 ## 🛠️ Tools & Technologies 
